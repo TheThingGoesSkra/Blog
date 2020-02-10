@@ -1,13 +1,13 @@
 {
-  "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "me@andy-bell.design",
-  "authorHandle": "@hankchizljaw",
-  "authorName": "Andy Bell",
-  "enableThirdPartyComments": false,
+  "showThemeCredit": false,
+  "name": "Wall6e >_",
+  "shortDesc": "\"To be free is to not lose the feeling of it.\" - An unknown",
+  "url": "https://wall6e.org",
+  "authorEmail": "tom.bloch@univ-tlse3.fr",
+  "authorHandle": "",
+  "authorName": "Tom Bloch",
+  "enableThirdPartyComments": true,
   "paymentPointer": "$coil.xrptipbot.com/c1f8f05d-8d8c-4f37-b1ad-25677ae129da",
-  "faviconPath": "/images/Wall-E4.png",
+  "faviconPath": "/images/Wall-E1.png",
   "maxPostsPerPage": 5
 }
