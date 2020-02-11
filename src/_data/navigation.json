@@ -5,9 +5,13 @@
       "url": "/",
       "external": false
     },
-
     {
-      "text": "Posts",
+      "text": "Articles",
+      "url": "/",
+      "external": false
+    },
+    {
+      "text": "Walkthroughs",
       "url": "/",
       "external": false
     },
