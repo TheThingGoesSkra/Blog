@@ -5,6 +5,12 @@
       "url": "/",
       "external": false
     },
+
+    {
+      "text": "Posts",
+      "url": "/",
+      "external": false
+    },
     {
       "text": "About",
       "url": "/pages/about-me",
